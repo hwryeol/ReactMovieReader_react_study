@@ -1,4 +1,4 @@
-#React 기초 학습을 위한 프로젝트   
+# React 기초 학습을 위한 프로젝트   
 1.기초문법
 2.useEffect, useState를 사용해서 컴포넌트 별로 랜더링 하는 방법
 3.fetch()를 사용해서 api 받아오는 방법
